@@ -1,3 +1,2 @@
 # abdulrepo
-abdul's repo
-This is abdul
+print("Abdul's Woorld")
